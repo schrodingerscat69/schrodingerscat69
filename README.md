@@ -7,10 +7,11 @@
     -  C++ (Object-Oriented Programming)
     -  Front-End Development
 - 🌱 I’m currently learning Mathematical Physics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on:
+   - Any coding projects (Algorithm building and testing mostly)
+   - Web Development
+   - Physics Research (Quantum Information Processing)
+- 📫 How to reach me:
 
 <!---
 schrodingerscat69/schrodingerscat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
