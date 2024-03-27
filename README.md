@@ -12,6 +12,7 @@
    - Web Development
    - Physics Research (Quantum Information Processing)
 - 📫 How to reach me:
+     Email: manngandhi66@gmail.com
 
 <!---
 schrodingerscat69/schrodingerscat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
