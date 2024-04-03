@@ -3,6 +3,7 @@
     -  Python
     -  Mathematical Physics
     -  Quantum Mechanics
+    -  Quantum Information Processing
     -  Thermodynamics
     -  C++ (Object-Oriented Programming)
     -  Front-End Development
