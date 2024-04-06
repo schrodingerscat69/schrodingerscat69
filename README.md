@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on:
    - Any coding projects (Algorithm building and testing mostly)
    - Web Development
-   - Physics Research (Quantum Information Processing)
+   - Physics Research 
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
 
