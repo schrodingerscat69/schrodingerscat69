@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @schrodingerscat69
 - 👀 I’m interested in:
-    -  Python
     -  Mathematical Physics
+    -  Python Programming
     -  Quantum Mechanics
     -  Quantum Information Processing
     -  Thermodynamics
+    -  Astrophysics
     -  C++ (Object-Oriented Programming)
-    -  Front-End Development
+    -  Front-End and Back-End Development
 - 🌱 I’m currently learning Mathematical Physics 
 - 💞️ I’m looking to collaborate on:
    - Any coding projects (Algorithm building and testing mostly)
