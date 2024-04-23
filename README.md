@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schrodingerscat69
+- 👋 Hi, I’m @schrodingerscat69 (Mann Gandhi)
 - 👀 I’m interested in:
     -  Mathematical Physics
     -  Python Programming
