@@ -14,6 +14,7 @@
    - Physics Research 
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
+  !!! Currently working with SNOLAB 
 
 <!---
 schrodingerscat69/schrodingerscat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
