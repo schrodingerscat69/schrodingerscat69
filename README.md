@@ -10,7 +10,6 @@
     -  Particle Physics
     -  Nuclear Physics + Applications (Modulator designs)
     -  Astrophysics
-    -  Front-End and Back-End Development
     -  FPGA programming 
 - 🌱 I’m currently learning Mathematical Physics 
 - 💞️ I’m looking to collaborate on:
@@ -20,7 +19,7 @@
    - Game development 
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
- -  !!! Currently working with SNOLAB 
+ -  !!! Currently working with Sheridan College
 
 <!---
 schrodingerscat69/schrodingerscat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
