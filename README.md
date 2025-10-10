@@ -4,6 +4,7 @@
     -  Pure Math 
     -  Modelling and Simulation
     -  Data analysis
+    -  Sport game analysis and tactical review (UCL / Premier League)
     -  Machine Learning and AI 
     -  Python/ C++ Programming
     -  Quantum Information Processing
