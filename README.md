@@ -13,9 +13,9 @@
     -  FPGA programming 
 - 🌱 I’m currently learning Mathematical Physics 
 - 💞️ I’m looking to collaborate on:
-   - Any coding projects (Algorithm building and testing mostly)
-   - Web Development
+   - Cryptography research
    - Physics Research
+   - Web Development
    - Game development 
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
