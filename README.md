@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @schrodingerscat69 (Mann Gandhi)
 - 👀 I’m interested in:
     -  Mathematical Physics
-    -  Pure Math 
     -  Modelling and Simulation
     -  Data analysis
     -  Sport game analysis and tactical review (UCL / Premier League)
     -  Machine Learning and AI 
     -  Python/ C++ Programming
-    -  Quantum Information Processing
-    -  Particle Physics
+    -  Quantum Information Processing and Error Correction techniques
+    -  Qubit modelling 
     -  Nuclear Physics + Applications (Modulator designs)
     -  Astrophysics
     -  FPGA programming 
