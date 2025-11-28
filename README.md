@@ -2,21 +2,17 @@
 - 👀 I’m interested in:
     -  Mathematical Physics
     -  Modelling and Simulation
-    -  Data analysis
-    -  Sport game analysis and tactical review (UCL / Premier League)
-    -  Machine Learning and AI 
-    -  Python/ C++ Programming
+    -  Data analysis eg: sport game analysis and tactical review (UCL / Premier League)
+    -  Machine Learning
     -  Quantum Information Processing and Error Correction techniques
-    -  Qubit modelling 
-    -  Nuclear Physics + Applications (Modulator designs)
-    -  Astrophysics
-    -  FPGA programming 
+    -  Nuclear Physics
+    -  Astrophysics 
 - 🌱 I’m currently learning Mathematical Physics 
 - 💞️ I’m looking to collaborate on:
    - Cryptography research
-   - Physics Research
+   - Physics Research -> Most currently into Quantum Computing
    - Web Development
-   - Game development 
+   - Game development -> All platforms
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
  -  !!! Currently working with Sheridan College
