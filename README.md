@@ -15,7 +15,7 @@
    - Game development -> All platforms
 - 📫 How to reach me:
      Email: manngandhi66@gmail.com
- -  !!! Currently working with Sheridan College
+
 
 <!---
 schrodingerscat69/schrodingerscat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
